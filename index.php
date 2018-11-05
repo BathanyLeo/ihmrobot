@@ -1,6 +1,6 @@
 <html> 
 	<head> 
-		<title> Mon premier Site Web </title> 
+		<title> Ihm Robot </title> 
 	</head> 
 		<body> 
 			<div id="titre1" classe="titre" style = "border:thin solid">
